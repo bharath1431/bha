@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="books " max_length="40" name="x_366417_project_books" type="collection">
+        <element label="New HTML" max_length="65536" name="u_html_1" type="html"/>
+        <element attributes="edge_encryption_enabled=true" label="service now books" max_length="1024" name="u_url_2" type="url"/>
+    </element>
+</database>
